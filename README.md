@@ -40,19 +40,23 @@ AI&DS student specializing in agentic automation, deep learning, and algorithmic
 
 <br/>
 
-## Tech Stack
+<h2 align="center">🛠️ Languages & Tools</h2>
 
-<table>
-<tr>
-<td valign="top" width="33%">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,git,github,linux,gcp,vscode,idea&perline=7" />
+</p>
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=py,c,cpp,java" /><br/>
-<img src="https://img.shields.io/badge/-Data%20Structures-4479A1?style=flat-square&logo=code&logoColor=white"/>
+---
 
-</td>
-<td valign="top" width="33%">
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hemandkumaar-u&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemandkumaar-u&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 **AI & Automation**
 <br/>
