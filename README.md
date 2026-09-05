@@ -22,7 +22,7 @@
 <img src="https://komarev.com/ghpvc/?username=hemandkumaar-u&label=Profile%20Views&color=58A6FF&style=flat-square" alt="profile views"/>
 <a href="https://github.com/hemandkumaar-u?tab=followers"><img src="https://img.shields.io/github/followers/hemandkumaar-u?label=Followers&style=flat-square&color=58A6FF" alt="followers"/></a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/"><img src="https://img.shields.io/badge/LinkedIn-Connect-58A6FF?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-58A6FF?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:u.hemandkumaar@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-58A6FF?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
