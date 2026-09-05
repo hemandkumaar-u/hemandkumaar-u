@@ -49,9 +49,8 @@ AI&DS student specializing in agentic automation, deep learning, and algorithmic
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemandkumaar-u&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hemandkumaar-u&show_icons=true&theme=tokyonight&v=1" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -133,13 +132,19 @@ AI&DS student specializing in agentic automation, deep learning, and algorithmic
 
 ## Connect
 
-<div align="center">
+<h2 align="center">📲 Connect with me</h2>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<!-- Add other socials here if needed -->
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/hemand-kumaar-u-5416ab353" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/hemandkumaar2006" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://leetcode.com/u/hemand_kumaar/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
 
 <br/>
 
