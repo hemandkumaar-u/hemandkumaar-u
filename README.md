@@ -49,6 +49,7 @@ AI&DS student specializing in agentic automation, deep learning, and algorithmic
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hemandkumaar-u&show_icons=true&theme=tokyonight&v=1" alt="GitHub Stats" />
 </p>
