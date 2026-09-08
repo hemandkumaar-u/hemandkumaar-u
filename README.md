@@ -49,14 +49,11 @@ AI&DS student specializing in agentic automation, deep learning, and algorithmic
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemandkumaar-u&show_icons=true&theme=tokyonight&count_private=true&v=2" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemandkumaar-u&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemandkumaar-u&theme=tokyonight&count_private=true&v=2" alt="GitHub Streak" />
-</p>
+
 **AI & Automation**
 <br/>
 <img src="https://img.shields.io/badge/-Deep%20Learning-58A6FF?style=flat-square"/><br/>
