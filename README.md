@@ -31,12 +31,19 @@
 ## About
 
 AI&DS student specializing in agentic automation, deep learning, and algorithmic problem-solving. Whether it's building automation workflows for hackathons or connecting LLMs to trading APIs, I focus on creating intelligent, functional systems. 
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-- 💼 Currently completing a remote technical internship with **CodSoft** (March 2026 Batch)
-- 🏆 Served as Team Lead for *Squadron supreme* (Web Escape) and *Team Trinity* (Agents in Action) at Titanium Fest 2026
-- 🤖 Completed the **5-Day AI Agents Intensive** building Gemini-powered solutions via Kaggle codelabs
-- 🏕️ Active in the Bharat Scouts and Guides (State-level Rashtrapati Scout testing camp) and Red Cross
-- ⚡ **Fun Fact:** In discrete math and lattice assignments, I strictly substitute standard ∨ and ∧ logical operators with ⊕ and *!
+- 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**
+- 🏫 Studying at **Velammal Engineering College**
+- 🌱 Currently learning **Python, DSA & Full Stack Development**
+- 💻 Exploring **Web Development & Problem Solving**
+- 🚀 Interested in **AI, Software Development & Emerging Technologies**
+- 🧠 Practicing coding consistently to improve logical thinking
+- ⚡ Passionate about technology, innovation, and continuous learning
+
+
+
+
 
 <br/>
 
