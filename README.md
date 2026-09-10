@@ -31,7 +31,7 @@
 ## About
 
 AI&DS student specializing in agentic automation, deep learning, and algorithmic problem-solving. Whether it's building automation workflows for hackathons or connecting LLMs to trading APIs, I focus on creating intelligent, functional systems. 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
 
 - 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**
 - 🏫 Studying at **Velammal Engineering College**
