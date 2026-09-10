@@ -47,11 +47,64 @@ AI&DS student specializing in agentic automation, deep learning, and algorithmic
 
 <br/>
 
-<h2 align="center">🛠️ Languages & Tools</h2>
+## Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,git,github,linux,gcp,vscode,idea&perline=7" />
-</p>
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=py,js,ts,c,cpp,html,css" /><br/>
+<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+</td>
+<td valign="top" width="33%">
+
+**Frontend & Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,flutter" />
+
+</td>
+<td valign="top" width="33%">
+
+**AI / ML**
+<br/>
+<img src="https://img.shields.io/badge/-Machine%20Learning-58A6FF?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/-CNN%20%2F%20Deep%20Learning-58A6FF?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/-PySpark-58A6FF?style=flat-square"/>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
+
+</td>
+<td valign="top" width="33%">
+
+**Cloud & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,git,github,linux,vercel" /><br/>
+<img src="https://img.shields.io/badge/-Hostinger-58A6FF?style=flat-square"/>
+
+</td>
+<td valign="top" width="33%">
+
+**Focus Areas**
+<br/>
+<img src="https://img.shields.io/badge/-REST%20APIs-58A6FF?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/-Cloud%20Deployment-58A6FF?style=flat-square"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 
 ---
 
