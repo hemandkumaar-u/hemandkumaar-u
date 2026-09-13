@@ -11,7 +11,7 @@
 
 # Hemand Kumaar U
 
-### AI&DS Student · Agentic AI & Automation Developer
+### AI&DS Student · Software & Automation Developer
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+%26+Data+Science;Agentic+AI+%26+UiPath+Automation;Python+%C2%B7+C%2B%2B+%C2%B7+Java;FinTech+%26+Trading+Integrations" alt="Typing SVG" />
