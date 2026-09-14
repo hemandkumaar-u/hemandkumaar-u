@@ -30,7 +30,7 @@
 
 ## About Me
 
-AI&DS student specializing in agentic automation, deep learning, and algorithmic problem-solving. Whether it's building automation workflows for hackathons or connecting LLMs to trading APIs, I focus on creating intelligent, functional systems. 
+AI&DS student specializing in agentic automation, deep learning, and algorithmic problem-solving. Whether it's building automation workflows, I focus on creating intelligent, functional systems. 
 
 
 - 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**
