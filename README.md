@@ -35,7 +35,7 @@ AI&DS student specializing in agentic automation, deep learning, and algorithmic
 
 - 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**
 - 🏫 Studying at **Velammal Engineering College**
-- 🌱 Currently learning **Python, DSA & Full Stack Development**
+- 🌱 Currently learning **Python,Java,C, DSA & Full Stack Development**
 - 💻 Exploring **Web Development & Problem Solving**
 - 🚀 Interested in **AI, Software Development & Emerging Technologies**
 - 🧠 Practicing coding consistently to improve logical thinking
